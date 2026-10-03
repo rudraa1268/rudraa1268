@@ -1,4 +1,4 @@
-<h1 align="center">Rudra</h1>
+<h1 align="center">Rudra Pandey</h1>
 
 <p align="center">
   <b>Full-Stack Developer</b> · AI-agent SaaS · Next.js · Node.js · PostgreSQL
@@ -10,17 +10,14 @@
 
 ---
 
-I build and ship production web applications end to end: database schema, APIs, UI and deployment. My day-to-day is an AI-agent based business operations SaaS for Indian SMBs, where I work across a large multi-app frontend and the services behind it.
-
-I came into software from electrical engineering, so I'm comfortable with messy real-world systems, automation and getting things to actually work in production.
-
+Full-stack developer who owns features end to end: Postgres schemas, Node/Next.js applications, and the Docker, AWS and CI/CD pipelines that get them into production. I care about code that's clean, deployable and easy to maintain.
 ### Experience
 
 | Where | What I built |
 | :-- | :-- |
-| **Botivate**, AutoRocket | AI-agent powered business-operations SaaS. Consolidating 11+ separate frontend apps into one unified platform, plus workflow tracking features. |
+| **Botivate**, AutoRocket | AI-agent powered business-operations SaaS. Consolidating 15+ separate frontend apps into one unified platform with backend and database , plus workflow tracking features. |
 | **Curiosity Labs** | Full-stack work on a government ERP system and client e-commerce products. |
-| **Elecsol** | Industrial automation (SCADA / PLC) before moving fully into software. |
+
 
 ### Tech Stack
 
