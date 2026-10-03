@@ -43,11 +43,25 @@ Full-stack developer who owns features end to end: Postgres schemas, Node/Next.j
 
 ### Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudraa1268/rudraa1268/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rudraa1268/rudraa1268/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/rudraa1268/rudraa1268/output/github-snake.svg" />
-</picture>
+### Projects
+
+<table>
+  <tr>
+    <td><a href="https://github.com/rudraa1268/job-search-automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraa1268&repo=job-search-automation&theme=tokyonight&hide_border=true" /></a></td>
+    <td><a href="https://github.com/rudraa1268/mediguide"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraa1268&repo=mediguide&theme=tokyonight&hide_border=true" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rudraa1268/papervelle-studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraa1268&repo=papervelle-studio&theme=tokyonight&hide_border=true" /></a></td>
+    <td><a href="https://github.com/rudraa1268/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraa1268&repo=portfolio&theme=tokyonight&hide_border=true" /></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/rudraa1268/job_portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraa1268&repo=job_portal&theme=tokyonight&hide_border=true" /></a></td>
+  </tr>
+</table>
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraa1268&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ### Currently
 
