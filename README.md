@@ -32,16 +32,7 @@ Full-stack developer who owns features end to end: Postgres schemas, Node/Next.j
 | **Cloud & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | **Automation & Tools** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
-### Projects
 
-<table>
-  <tr>
-    <td><a href="https://github.com/rudraa1268/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraa1268&repo=portfolio&theme=tokyonight&hide_border=true" /></a></td>
-    <td><a href="https://github.com/rudraa1268/job_portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraa1268&repo=job_portal&theme=tokyonight&hide_border=true" /></a></td>
-  </tr>
-</table>
-
-### Contribution Activity
 
 ### Projects
 
